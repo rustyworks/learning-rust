@@ -12,3 +12,23 @@
 
 # MSVC Windows builds of rustc generate these, which store debugging information
 **/*.pdb
+
+ultimate_rust*
+invaders*
+
+rustlings/.*
+rustlings/AUTHORS.md
+rustlings/CHANGELOG.md
+rustlings/CONTRIBUTING.md
+rustlings/Cargo.toml
+rustlings/LICENSE
+rustlings/README.md
+rustlings/src/
+rustlings/tests/
+rustlings/flake.lock
+rustlings/flake.nix
+rustlings/info.toml
+rustlings/install.ps1
+rustlings/install.sh
+rustlings/oranda.json
+rustlings/shell.nix
